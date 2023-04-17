@@ -1,0 +1,3 @@
+git init- used to initialize the git
+git add- used to stage the file
+git commit- used to save the file
